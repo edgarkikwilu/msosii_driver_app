@@ -1,0 +1,509 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.mobidonia.foodtiger"
+4    android:versionCode="1"
+5    android:versionName="2.1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="30" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:3:3-75
+11-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:3:20-73
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:2:3-64
+12-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:2:20-62
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:4:3-63
+13-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:4:20-61
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:5:3-78
+14-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:5:20-76
+15    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+15-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:6:3-76
+15-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:6:20-74
+16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+16-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:7:3-75
+16-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:7:20-72
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:8:3-77
+17-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:8:20-75
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:9:3-78
+18-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:9:20-76
+19    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+19-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:10:3-70
+19-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:10:20-68
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:11:3-76
+20-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:11:20-74
+21    <uses-permission android:name="android.permission.WAKE_LOCK" />
+21-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:12:3-65
+21-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:12:20-63
+22    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+22-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:13:3-79
+22-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:13:20-77
+23    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+23-->[com.facebook.flipper:flipper:0.54.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/3438a9d00caabd611b13d72b5138072b/jetified-flipper-0.54.0/AndroidManifest.xml:16:5-76
+23-->[com.facebook.flipper:flipper:0.54.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/3438a9d00caabd611b13d72b5138072b/jetified-flipper-0.54.0/AndroidManifest.xml:16:22-73
+24
+25    <queries>
+25-->[:expo-file-system] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-22:15
+26
+27        <!-- Query open documents -->
+28        <intent>
+28-->[:expo-file-system] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-21:18
+29            <action android:name="android.intent.action.OPEN_DOCUMENT_TREE" />
+29-->[:expo-file-system] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:13-79
+29-->[:expo-file-system] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:21-76
+30        </intent>
+31    </queries> <!-- Create a unique permission for your app and use it so only your app can receive your OneSignal messages. -->
+32    <permission
+32-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:7:5-9:47
+33        android:name="com.mobidonia.foodtiger.permission.C2D_MESSAGE"
+33-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:8:9-63
+34        android:protectionLevel="signature" />
+34-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:9:9-44
+35
+36    <uses-permission android:name="com.mobidonia.foodtiger.permission.C2D_MESSAGE" />
+36-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:11:5-79
+36-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:11:22-76
+37    <!--
+38 Use to restore notifications the user hasn't interacted with.
+39         They could be missed notifications if the user reboots their device if this isn't in place.
+40    -->
+41    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" /> <!-- START: ShortcutBadger -->
+41-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:29:5-81
+41-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:29:22-78
+42    <!-- Samsung -->
+43    <uses-permission android:name="com.sec.android.provider.badge.permission.READ" />
+43-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:31:5-86
+43-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:31:22-83
+44    <uses-permission android:name="com.sec.android.provider.badge.permission.WRITE" /> <!-- HTC -->
+44-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:32:5-87
+44-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:32:22-84
+45    <uses-permission android:name="com.htc.launcher.permission.READ_SETTINGS" />
+45-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:33:5-81
+45-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:33:22-78
+46    <uses-permission android:name="com.htc.launcher.permission.UPDATE_SHORTCUT" /> <!-- Sony -->
+46-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:34:5-83
+46-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:34:22-80
+47    <uses-permission android:name="com.sonyericsson.home.permission.BROADCAST_BADGE" />
+47-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:35:5-88
+47-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:35:22-85
+48    <uses-permission android:name="com.sonymobile.home.permission.PROVIDER_INSERT_BADGE" /> <!-- Apex -->
+48-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:36:5-92
+48-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:36:22-89
+49    <uses-permission android:name="com.anddoes.launcher.permission.UPDATE_COUNT" /> <!-- Solid -->
+49-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:37:5-84
+49-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:37:22-81
+50    <uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" /> <!-- Huawei -->
+50-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:38:5-83
+50-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:38:22-80
+51    <uses-permission android:name="com.huawei.android.launcher.permission.CHANGE_BADGE" />
+51-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:39:5-91
+51-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:39:22-88
+52    <uses-permission android:name="com.huawei.android.launcher.permission.READ_SETTINGS" />
+52-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:40:5-92
+52-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:40:22-89
+53    <uses-permission android:name="com.huawei.android.launcher.permission.WRITE_SETTINGS" /> <!-- ZUK -->
+53-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:41:5-93
+53-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:41:22-90
+54    <uses-permission android:name="android.permission.READ_APP_BADGE" /> <!-- OPPO -->
+54-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:42:5-73
+54-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:42:22-70
+55    <uses-permission android:name="com.oppo.launcher.permission.READ_SETTINGS" />
+55-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:43:5-82
+55-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:43:22-79
+56    <uses-permission android:name="com.oppo.launcher.permission.WRITE_SETTINGS" /> <!-- EvMe -->
+56-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:44:5-83
+56-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:44:22-80
+57    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_READ" />
+57-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:45:5-88
+57-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:45:22-85
+58    <uses-permission android:name="me.everything.badger.permission.BADGE_COUNT_WRITE" />
+58-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:46:5-89
+58-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:46:22-86
+59
+60    <uses-feature
+60-->[com.google.android.gms:play-services-maps:17.0.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/cf48b6a5d1983746bdeb31db066e7936/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+61        android:glEsVersion="0x00020000"
+61-->[com.google.android.gms:play-services-maps:17.0.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/cf48b6a5d1983746bdeb31db066e7936/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+62        android:required="true" />
+62-->[com.google.android.gms:play-services-maps:17.0.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/cf48b6a5d1983746bdeb31db066e7936/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+63
+64    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+64-->[com.android.installreferrer:installreferrer:1.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/082a55596d936a531344a2f417f82b34/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+64-->[com.android.installreferrer:installreferrer:1.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/082a55596d936a531344a2f417f82b34/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
+65    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+65-->[io.nlopez.smartlocation:library:3.2.11] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/918b98768c2b7db3f2008531e53c848b/jetified-library-3.2.11/AndroidManifest.xml:15:5-98
+65-->[io.nlopez.smartlocation:library:3.2.11] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/918b98768c2b7db3f2008531e53c848b/jetified-library-3.2.11/AndroidManifest.xml:15:22-95
+66    <uses-permission android:name="com.google.android.gms.permission.ACTIVITY_RECOGNITION" />
+66-->[io.nlopez.smartlocation:library:3.2.11] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/918b98768c2b7db3f2008531e53c848b/jetified-library-3.2.11/AndroidManifest.xml:16:5-94
+66-->[io.nlopez.smartlocation:library:3.2.11] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/918b98768c2b7db3f2008531e53c848b/jetified-library-3.2.11/AndroidManifest.xml:16:22-91
+67
+68    <application
+68-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:14:3-33:17
+69        android:name="com.mobidonia.foodtiger.MainApplication"
+69-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:14:52-83
+70        android:allowBackup="true"
+70-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:14:198-224
+71        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+71-->[androidx.core:core:1.3.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/94d76232efa3c56f5e49fb21e1374911/core-1.3.0/AndroidManifest.xml:24:18-86
+72        android:debuggable="true"
+73        android:icon="@mipmap/ic_launcher"
+73-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:14:117-151
+74        android:label="@string/app_name"
+74-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:14:84-116
+75        android:roundIcon="@mipmap/ic_launcher_round"
+75-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:14:152-197
+76        android:testOnly="true"
+77        android:theme="@style/AppTheme"
+77-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:14:225-256
+78        android:usesCleartextTraffic="true" >
+78-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:14:16-51
+79        <meta-data
+79-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:15:5-125
+80            android:name="expo.modules.updates.EXPO_UPDATE_URL"
+80-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:15:16-67
+81            android:value="https://exp.host/@dimovdaniel/foodtiger" />
+81-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:15:68-123
+82        <meta-data
+82-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:16:5-93
+83            android:name="expo.modules.updates.EXPO_SDK_VERSION"
+83-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:16:16-68
+84            android:value="40.0.0" />
+84-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:16:69-91
+85        <meta-data
+85-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:17:5-82
+86            android:name="expo.modules.updates.ENABLED"
+86-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:17:16-59
+87            android:value="true" />
+87-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:17:60-80
+88        <meta-data
+88-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:18:5-105
+89            android:name="expo.modules.updates.EXPO_UPDATES_CHECK_ON_LAUNCH"
+89-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:18:16-80
+90            android:value="ALWAYS" />
+90-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:18:81-103
+91        <meta-data
+91-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:19:5-99
+92            android:name="expo.modules.updates.EXPO_UPDATES_LAUNCH_WAIT_MS"
+92-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:19:16-79
+93            android:value="0" />
+93-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:19:80-97
+94
+95        <activity
+95-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:20:5-31:16
+96            android:name="com.mobidonia.foodtiger.MainActivity"
+96-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:20:15-43
+97            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+97-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:20:77-154
+98            android:label="@string/app_name"
+98-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:20:44-76
+99            android:launchMode="singleTask"
+99-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:20:155-186
+100            android:screenOrientation="portrait"
+100-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:20:276-312
+101            android:theme="@style/Theme.App.SplashScreen"
+101-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:20:230-275
+102            android:windowSoftInputMode="adjustResize" >
+102-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:20:187-229
+103            <intent-filter>
+103-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:21:7-24:23
+104                <action android:name="android.intent.action.MAIN" />
+104-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:22:9-60
+104-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:22:17-58
+105
+106                <category android:name="android.intent.category.LAUNCHER" />
+106-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:23:9-68
+106-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:23:19-66
+107            </intent-filter>
+108            <intent-filter>
+108-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:25:7-30:23
+109                <action android:name="android.intent.action.VIEW" />
+109-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:26:9-60
+109-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:26:17-58
+110
+111                <category android:name="android.intent.category.DEFAULT" />
+111-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:27:9-67
+111-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:27:19-65
+112                <category android:name="android.intent.category.BROWSABLE" />
+112-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:28:9-69
+112-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:28:19-67
+113
+114                <data android:scheme="com.mobidonia.foodtiger" />
+114-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:29:9-57
+114-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:29:15-55
+115            </intent-filter>
+116        </activity>
+117        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+117-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:32:5-81
+117-->/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/AndroidManifest.xml:32:15-79
+118
+119        <meta-data
+119-->[:unimodules-react-native-adapter] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-14:91
+120            android:name="org.unimodules.core.AppLoader#react-native-headless"
+120-->[:unimodules-react-native-adapter] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-79
+121            android:value="org.unimodules.adapters.react.apploader.RNHeadlessAppLoader" />
+121-->[:unimodules-react-native-adapter] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/@unimodules/react-native-adapter/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-88
+122
+123        <provider
+123-->[:expo-file-system] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:25:9-34:20
+124            android:name="expo.modules.filesystem.FileSystemFileProvider"
+124-->[:expo-file-system] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:26:13-74
+125            android:authorities="com.mobidonia.foodtiger.FileSystemFileProvider"
+125-->[:expo-file-system] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:27:13-74
+126            android:exported="false"
+126-->[:expo-file-system] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:28:13-37
+127            android:grantUriPermissions="true" >
+127-->[:expo-file-system] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:29:13-47
+128            <meta-data
+128-->[:expo-file-system] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:31:13-33:70
+129                android:name="android.support.FILE_PROVIDER_PATHS"
+129-->[:expo-file-system] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:32:17-67
+130                android:resource="@xml/file_system_provider_paths" />
+130-->[:expo-file-system] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/expo-file-system/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:33:17-67
+131        </provider>
+132
+133        <meta-data
+133-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:49:9-51:51
+134            android:name="onesignal_app_id"
+134-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:50:13-44
+135            android:value="" /> <!-- Deprecated - Pulled from OneSignal dashboard. -->
+135-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:51:13-48
+136        <meta-data
+136-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:53:9-55:70
+137            android:name="onesignal_google_project_number"
+137-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:54:13-59
+138            android:value="str:REMOTE" />
+138-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:55:13-67
+139
+140        <receiver
+140-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:57:9-67:20
+141            android:name="com.onesignal.GcmBroadcastReceiver"
+141-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:58:13-62
+142            android:permission="com.google.android.c2dm.permission.SEND" >
+142-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:59:13-73
+143
+144            <!-- High priority so OneSignal payloads can be filtered from other GCM receivers if filterOtherGCMReceivers is enabled. -->
+145            <intent-filter android:priority="999" >
+145-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:62:13-66:29
+145-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:62:28-50
+146                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+146-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:63:17-81
+146-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:63:25-78
+147
+148                <category android:name="com.mobidonia.foodtiger" />
+148-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:65:17-61
+148-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:65:27-58
+149            </intent-filter>
+150        </receiver>
+151        <receiver android:name="com.onesignal.NotificationOpenedReceiver" />
+151-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:68:9-77
+151-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:68:19-74
+152
+153        <service android:name="com.onesignal.GcmIntentService" />
+153-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:70:9-66
+153-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:70:18-63
+154        <service
+154-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:71:9-73:72
+155            android:name="com.onesignal.GcmIntentJobService"
+155-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:72:13-61
+156            android:permission="android.permission.BIND_JOB_SERVICE" />
+156-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:73:13-69
+157        <service
+157-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:74:9-76:72
+158            android:name="com.onesignal.RestoreJobService"
+158-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:75:13-59
+159            android:permission="android.permission.BIND_JOB_SERVICE" />
+159-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:76:13-69
+160        <service
+160-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:77:9-79:72
+161            android:name="com.onesignal.RestoreKickoffJobService"
+161-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:78:13-66
+162            android:permission="android.permission.BIND_JOB_SERVICE" />
+162-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:79:13-69
+163        <service
+163-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:80:9-82:43
+164            android:name="com.onesignal.SyncService"
+164-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:81:13-53
+165            android:stopWithTask="true" />
+165-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:82:13-40
+166        <service
+166-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:83:9-85:72
+167            android:name="com.onesignal.SyncJobService"
+167-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:84:13-56
+168            android:permission="android.permission.BIND_JOB_SERVICE" />
+168-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:85:13-69
+169
+170        <activity
+170-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:87:9-89:75
+171            android:name="com.onesignal.PermissionsActivity"
+171-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:88:13-61
+172            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+172-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:89:13-72
+173
+174        <service android:name="com.onesignal.NotificationRestoreService" />
+174-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:91:9-76
+174-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:91:18-73
+175
+176        <receiver android:name="com.onesignal.BootUpReceiver" >
+176-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:93:9-98:20
+176-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:93:19-62
+177            <intent-filter>
+177-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:94:13-97:29
+178                <action android:name="android.intent.action.BOOT_COMPLETED" />
+178-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:95:17-79
+178-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:95:25-76
+179                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+179-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:96:17-82
+179-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:96:25-79
+180            </intent-filter>
+181        </receiver>
+182        <receiver android:name="com.onesignal.UpgradeReceiver" >
+182-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:99:9-103:20
+182-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:99:19-63
+183            <intent-filter>
+183-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:100:13-102:29
+184                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+184-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:101:17-84
+184-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:101:25-81
+185            </intent-filter>
+186        </receiver>
+187
+188        <service
+188-->[:expo-location] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:9-19:56
+189            android:name="expo.modules.location.services.LocationTaskService"
+189-->[:expo-location] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-78
+190            android:exported="false"
+190-->[:expo-location] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:13-37
+191            android:foregroundServiceType="location" /> <!-- Needs to be explicitly declared on P+ -->
+191-->[:expo-location] /Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/node_modules/expo-location/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:13-53
+192        <uses-library
+192-->[com.google.android.gms:play-services-maps:17.0.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/cf48b6a5d1983746bdeb31db066e7936/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+193            android:name="org.apache.http.legacy"
+193-->[com.google.android.gms:play-services-maps:17.0.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/cf48b6a5d1983746bdeb31db066e7936/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+194            android:required="false" />
+194-->[com.google.android.gms:play-services-maps:17.0.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/cf48b6a5d1983746bdeb31db066e7936/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+195        <!--
+196             FirebaseMessagingService performs security checks at runtime,
+197             no need for explicit permissions despite exported="true"
+198        -->
+199        <service
+199-->[com.google.firebase:firebase-messaging:17.3.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2670becbe0ab2b7c5bce467034db423a/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:28:9-34:19
+200            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+200-->[com.google.firebase:firebase-messaging:17.3.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2670becbe0ab2b7c5bce467034db423a/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:29:13-82
+201            android:exported="true" >
+201-->[com.google.firebase:firebase-messaging:17.3.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2670becbe0ab2b7c5bce467034db423a/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:30:13-36
+202            <intent-filter android:priority="-500" >
+202-->[com.google.firebase:firebase-messaging:17.3.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2670becbe0ab2b7c5bce467034db423a/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:31:13-33:29
+202-->[com.google.firebase:firebase-messaging:17.3.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2670becbe0ab2b7c5bce467034db423a/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:31:28-51
+203                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+203-->[com.google.firebase:firebase-messaging:17.3.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2670becbe0ab2b7c5bce467034db423a/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:32:17-78
+203-->[com.google.firebase:firebase-messaging:17.3.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2670becbe0ab2b7c5bce467034db423a/jetified-firebase-messaging-17.3.4/AndroidManifest.xml:32:25-75
+204            </intent-filter>
+205        </service>
+206        <service
+206-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:29:9-35:19
+207            android:name="com.google.firebase.components.ComponentDiscoveryService"
+207-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:30:13-84
+208            android:exported="false" >
+208-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:31:13-37
+209            <meta-data
+209-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:32:13-34:85
+210                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+210-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:33:17-96
+211                android:value="com.google.firebase.components.ComponentRegistrar" />
+211-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:34:17-82
+212        </service>
+213
+214        <receiver
+214-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:37:9-44:20
+215            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+215-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:38:13-78
+216            android:exported="true"
+216-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:39:13-36
+217            android:permission="com.google.android.c2dm.permission.SEND" >
+217-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:40:13-73
+218            <intent-filter>
+218-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:41:13-43:29
+219                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+219-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:63:17-81
+219-->[com.onesignal:OneSignal:3.13.2] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/1607632056bc3ceb9cb5abe4f60178b1/jetified-OneSignal-3.13.2/AndroidManifest.xml:63:25-78
+220            </intent-filter>
+221        </receiver>
+222        <!--
+223             FirebaseInstanceIdService performs security checks at runtime,
+224             no need for explicit permissions despite exported="true"
+225        -->
+226        <service
+226-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:50:9-56:19
+227            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+227-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:51:13-77
+228            android:exported="true" >
+228-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:52:13-36
+229            <intent-filter android:priority="-500" >
+229-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:53:13-55:29
+229-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:53:28-51
+230                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+230-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:54:17-80
+230-->[com.google.firebase:firebase-iid:17.0.4] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/2dd411b42ad7ff9e6faa7f5465978a03/jetified-firebase-iid-17.0.4/AndroidManifest.xml:54:25-77
+231            </intent-filter>
+232        </service>
+233
+234        <activity
+234-->[com.google.android.gms:play-services-base:17.0.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/f25b635165687ee582a15249ffa39fe6/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+235            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+235-->[com.google.android.gms:play-services-base:17.0.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/f25b635165687ee582a15249ffa39fe6/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+236            android:exported="false"
+236-->[com.google.android.gms:play-services-base:17.0.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/f25b635165687ee582a15249ffa39fe6/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+237            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+237-->[com.google.android.gms:play-services-base:17.0.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/f25b635165687ee582a15249ffa39fe6/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+238
+239        <provider
+239-->[com.google.firebase:firebase-common:16.0.3] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/3cb08a4129fb356fbd47da76ba55f574/jetified-firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
+240            android:name="com.google.firebase.provider.FirebaseInitProvider"
+240-->[com.google.firebase:firebase-common:16.0.3] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/3cb08a4129fb356fbd47da76ba55f574/jetified-firebase-common-16.0.3/AndroidManifest.xml:11:13-77
+241            android:authorities="com.mobidonia.foodtiger.firebaseinitprovider"
+241-->[com.google.firebase:firebase-common:16.0.3] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/3cb08a4129fb356fbd47da76ba55f574/jetified-firebase-common-16.0.3/AndroidManifest.xml:12:13-72
+242            android:exported="false"
+242-->[com.google.firebase:firebase-common:16.0.3] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/3cb08a4129fb356fbd47da76ba55f574/jetified-firebase-common-16.0.3/AndroidManifest.xml:13:13-37
+243            android:initOrder="100" />
+243-->[com.google.firebase:firebase-common:16.0.3] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/3cb08a4129fb356fbd47da76ba55f574/jetified-firebase-common-16.0.3/AndroidManifest.xml:14:13-36
+244
+245        <meta-data
+245-->[com.google.android.gms:play-services-basement:17.0.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/bdf47fc17a251e3d93746e7b68ed3ddb/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+246            android:name="com.google.android.gms.version"
+246-->[com.google.android.gms:play-services-basement:17.0.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/bdf47fc17a251e3d93746e7b68ed3ddb/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+247            android:value="@integer/google_play_services_version" />
+247-->[com.google.android.gms:play-services-basement:17.0.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/bdf47fc17a251e3d93746e7b68ed3ddb/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+248
+249        <service
+249-->[androidx.room:room-runtime:2.1.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/6af9853f47fad4c93cfd121e201d857f/room-runtime-2.1.0/AndroidManifest.xml:25:9-27:40
+250            android:name="androidx.room.MultiInstanceInvalidationService"
+250-->[androidx.room:room-runtime:2.1.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/6af9853f47fad4c93cfd121e201d857f/room-runtime-2.1.0/AndroidManifest.xml:26:13-74
+251            android:exported="false" />
+251-->[androidx.room:room-runtime:2.1.0] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/6af9853f47fad4c93cfd121e201d857f/room-runtime-2.1.0/AndroidManifest.xml:27:13-37
+252        <service
+252-->[io.nlopez.smartlocation:library:3.2.11] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/918b98768c2b7db3f2008531e53c848b/jetified-library-3.2.11/AndroidManifest.xml:19:9-21:40
+253            android:name="io.nlopez.smartlocation.activity.providers.ActivityGooglePlayServicesProvider$ActivityRecognitionService"
+253-->[io.nlopez.smartlocation:library:3.2.11] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/918b98768c2b7db3f2008531e53c848b/jetified-library-3.2.11/AndroidManifest.xml:20:13-132
+254            android:exported="false" />
+254-->[io.nlopez.smartlocation:library:3.2.11] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/918b98768c2b7db3f2008531e53c848b/jetified-library-3.2.11/AndroidManifest.xml:21:13-37
+255        <service
+255-->[io.nlopez.smartlocation:library:3.2.11] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/918b98768c2b7db3f2008531e53c848b/jetified-library-3.2.11/AndroidManifest.xml:22:9-24:40
+256            android:name="io.nlopez.smartlocation.geofencing.providers.GeofencingGooglePlayServicesProvider$GeofencingService"
+256-->[io.nlopez.smartlocation:library:3.2.11] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/918b98768c2b7db3f2008531e53c848b/jetified-library-3.2.11/AndroidManifest.xml:23:13-127
+257            android:exported="false" />
+257-->[io.nlopez.smartlocation:library:3.2.11] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/918b98768c2b7db3f2008531e53c848b/jetified-library-3.2.11/AndroidManifest.xml:24:13-37
+258        <service
+258-->[io.nlopez.smartlocation:library:3.2.11] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/918b98768c2b7db3f2008531e53c848b/jetified-library-3.2.11/AndroidManifest.xml:25:9-27:40
+259            android:name="io.nlopez.smartlocation.geocoding.providers.AndroidGeocodingProvider$AndroidGeocodingService"
+259-->[io.nlopez.smartlocation:library:3.2.11] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/918b98768c2b7db3f2008531e53c848b/jetified-library-3.2.11/AndroidManifest.xml:26:13-120
+260            android:exported="false" />
+260-->[io.nlopez.smartlocation:library:3.2.11] /Users/edgarkikwilu/.gradle/caches/transforms-2/files-2.1/918b98768c2b7db3f2008531e53c848b/jetified-library-3.2.11/AndroidManifest.xml:27:13-37
+261    </application>
+262
+263</manifest>

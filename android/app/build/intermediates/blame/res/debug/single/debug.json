@@ -1,0 +1,326 @@
+[
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable_splashscreen_image.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable/splashscreen_image.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_imgs_nodata.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-mdpi/assets_imgs_nodata.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_galioframework_src_fonts_galio.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_galioframework_src_fonts_galio.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_octicons.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_octicons.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_imgs_argonlogo.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-mdpi/assets_imgs_argonlogo.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_brands.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_brands.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_ionicons.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_ionicons.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_materialicons.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_materialicons.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_assets_font_argon.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/assets_font_argon.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_antdesign.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_antdesign.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_imgs_getprobg.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-mdpi/assets_imgs_getprobg.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_imgs_profilescreenbg.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-mdpi/assets_imgs_profilescreenbg.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_zocial.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_zocial.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontisto.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontisto.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_assets_font_argonconf.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/assets_font_argonconf.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_materialcommunityicons.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_materialcommunityicons.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_foundation.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_foundation.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_imgs_argonlogoonboarding.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-mdpi/assets_imgs_argonlogoonboarding.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_imgs_registerbg.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-mdpi/assets_imgs_registerbg.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_app.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/app.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_imgs_food_tiger_logo.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-mdpi/assets_imgs_food_tiger_logo.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_solid.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_solid.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_galioframework_src_config_galio.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_galioframework_src_config_galio.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_feather.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_feather.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_imgs_android.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-mdpi/assets_imgs_android.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_imgs_getprobg.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-xhdpi/assets_imgs_getprobg.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable_splashscreen.xml.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable/splashscreen.xml"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_regular.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome5_regular.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontawesome.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_imgs_argonlogoonboarding.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-xhdpi/assets_imgs_argonlogoonboarding.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontisto.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_fontisto.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_simplelineicons.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_simplelineicons.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_evilicons.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_evilicons.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_imgs_bg.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-mdpi/assets_imgs_bg.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-mdpi_assets_imgs_ios.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-mdpi/assets_imgs_ios.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_entypo.ttf.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_fonts_entypo.ttf"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/raw_node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/raw/node_modules_expo_vectoricons_build_vendor_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/drawable-xhdpi_assets_imgs_argonlogo.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/drawable-xhdpi/assets_imgs_argonlogo.png"
+    },
+    {
+        "merged": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/edgarkikwilu/mine/kipaza/msosii_apps/Driverapp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
